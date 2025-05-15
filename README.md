@@ -1,12 +1,12 @@
 Hi, I'm Jaswanth 👋
 
-🌱 Aspiring **Full Stack Developer** | Passionate about building interactive web apps  
-💻 Skilled in **HTML, CSS, JavaScript, Bootstrap** and learning **React.js & Node.js**  
-🎯 Currently working on: `MindMeld` – a feature-rich quiz web app  
-🚀 Actively improving my JavaScript and React fundamentals  
-📚 Completed an AICTE front-end internship during college 
+-🌱 Aspiring **Full Stack Developer** | Passionate about building interactive web apps  
+-💻 Skilled in **HTML, CSS, JavaScript, Bootstrap** and learning **React.js & Node.js**  
+-🎯 Currently working on: `MindMeld` – a feature-rich quiz web app  
+-🚀 Actively improving my JavaScript and React fundamentals  
+-📚 Completed an AICTE front-end internship during college 
 
-📫 How to reach me 📧 [jaswanthtoka9@gmail.com](mailto:jaswanthtoka9@gmail.com)
+-📫 How to reach me [jaswanthtoka9@gmail.com](mailto:jaswanthtoka9@gmail.com)
 
 
 Languages & Tools:
