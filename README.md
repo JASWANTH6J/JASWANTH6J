@@ -5,6 +5,7 @@ Hi, I'm Jaswanth 👋
 🎯 Currently working on: `MindMeld` – a feature-rich quiz web app  
 🚀 Actively improving my JavaScript and React fundamentals  
 📚 Completed an AICTE front-end internship during college 
+
 📫 How to reach me 📧 [jaswanthtoka9@gmail.com](mailto:jaswanthtoka9@gmail.com)
 
 
